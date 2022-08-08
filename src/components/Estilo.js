@@ -26,5 +26,12 @@ export default StyleSheet.create({
         textAlign: "center",
         marginTop: 14,
         paddingVertical: 8
+    },
+
+    ButtonBox: {
+        flexDirection: 'row',
+        justifyContent: 'space-between',
+        
     }
+
 });
